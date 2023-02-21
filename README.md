@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **fullstackwebdevelopment**
 
-- 📫 How to reach me **kumarsrajan@gmail.com**
-
 - ⚡ Fun fact **I draw**
 
 <h3 align="left">Connect with me:</h3>
