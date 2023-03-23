@@ -6,7 +6,7 @@
   <img src="eva.gif" width="350" />
   <br>
   <br>
-  I like computers, anime and I also draw occationally :)
+  I like computers, anime and I also draw occationally draw :)
 </div>
 <br>
 <div id="badges" align="center">
