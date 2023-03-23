@@ -6,7 +6,9 @@
   <img src="eva.gif" width="350" />
   <br>
   <br>
-  I like computers, anime and I also draw occationally draw :)
+  A second year CSE student who likes computers and anime
+  <br>
+  I also ocationally draw :)
 </div>
 <br>
 <div id="badges" align="center">
