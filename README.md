@@ -3,7 +3,7 @@
   Hello World!
   <br>
   <br>
-  <img src="eva.gif" width="350" />
+  <img src="public/anime1.gif"/>
   <br>
   <br>
   A second year CSE student who likes computers, anime and also ocasionally draw :)
