@@ -1,11 +1,7 @@
 <div id="header" align="center">
-  <br>
-  <div> <h3> Hello World! </div>
-  <br>
+  <h3> Hello World! </h3>
   <img src="public/anime1.gif"/>
-  <br>
-  <br>
-  <h3>A second year CSE student who likes computers, anime and also ocasionally draw :)
+  <h3>A second year CSE student who likes computers, anime and also ocasionally draw :) </h3>
 </div>
 <br>
 <div id="badges" align="center">
