@@ -2,7 +2,7 @@
   <br>
   <div> <h3> Hello World! </div>
   <br>
-  <img src="public/anime1.gif" height="300"/>
+  <img src="public/anime1.gif"/>
   <br>
   <br>
   <h3>A second year CSE student who likes computers, anime and also ocasionally draw :)
