@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3> Hello World! </h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
   <img src="public/anime1.gif"/>
   <h3>A second year CSE student who likes computers, anime and also ocasionally draw :) </h3>
 </div>
