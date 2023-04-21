@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
-  <img align="left" width="300px" src="public/chari.gif"/>
+  <img align="left" width="310px" src="public/chari.gif"/>
   <h3>A second year CSE student who likes computers, anime and also ocasionally draw :) </h3>
 </div>
 <br>
