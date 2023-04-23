@@ -13,6 +13,7 @@
   </a>
 </div>
 <br>
+<br>
  <hr/>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height=40 width=50/>
