@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World+!" alt="Typing SVG" />
   <img align="left" width="300px" src="public/tech1.gif"/>
-  <br>
 <h3>A second year CSE student who likes anime and computers :) </h3>
 </div>
 <br>
@@ -13,6 +12,7 @@
   <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </div>
+<br>
 <br>
  <hr/>
   <div align="center">
