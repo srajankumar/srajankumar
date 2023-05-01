@@ -5,11 +5,14 @@
 <h3 align="center" >A second year CSE student who likes anime and computers :) </h3>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kumarsrajan/">
+  <a href="https://www.linkedin.com/in/kumarsrajan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/srajankumar/">
+  <a href="https://leetcode.com/srajankumar/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/21259173/srajan" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </div>
 <br>
@@ -23,11 +26,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height=40 width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 width=50/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height=40 width=50/>
+    <img src="https://skillicons.dev/icons?i=express" height=40 width=50/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40 width=50/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40 width=50/>     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40 width=50/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=40 width=50/>      
   </div>
 
 
