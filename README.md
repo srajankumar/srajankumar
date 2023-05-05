@@ -8,12 +8,7 @@
   <a href="https://www.linkedin.com/in/kumarsrajan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/srajankumar/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/21259173/srajan" target="_blank">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
+  
 </div>
 <br>
 <br>
@@ -21,20 +16,24 @@
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height=40 width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height=40 width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height=40 width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40 width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 width=50/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=50/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 width=50 />     
+  </div>
+<!--  <hr/>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=40 width=50/>
     <img src="https://skillicons.dev/icons?i=express" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40 width=50/>     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40 width=50/>
-    <img src="https://skillicons.dev/icons?i=nextjs" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40 width=50/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=40 width=50/>      
-  </div>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=40 width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40 width=50/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height=40 width=50 />
+  </div> -->
 
