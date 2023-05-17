@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World+!" alt="Typing SVG" />
-  <img align="left" width="320px" src="public/tech1.gif"/>
 </div>
 <h3 align="center" >A second year CSE student who likes anime and computers :) </h3>
-<br>
+<br/>
+<div>
+  <img align="center" src="public/jpn1.gif"/>
+</div>
+<br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kumarsrajan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  
 </div>
-<br>
-<br>
  <hr/>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height=40 width=50/>
