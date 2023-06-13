@@ -1,5 +1,5 @@
 ## Hey, I'm Srajan Kumar
-> _A front-end react developer who likes anime and computers :)_
+> _A developer wannabe who likes anime and computers :)_
 <ul>
   <li>Second year computer science student @SCEM</li>
   <li>I build cool stuffs for fun</li>
