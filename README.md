@@ -1,10 +1,12 @@
 ## Hey, I'm Srajan Kumar
 > _A developer wannabe who likes anime and computers :)_
+<!--
 <ul>
   <li>Second year computer science student @SCEM</li>
   <li>I build cool stuffs for fun</li>
   <li>Aim = Fullstack + DevOps ;</li>
 </ul>
+-->
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=30 alt="HTML"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=30 alt="CSS"/>
