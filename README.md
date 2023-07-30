@@ -16,7 +16,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=30 alt="Bootstrap CSS"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=30 alt="Tailwind CSS"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=30 alt="VS Code"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=30 alt="Git"/>      
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=30 alt="Git"/>
+   <img src="https://skillicons.dev/icons?i=vercel" width=30 alt="Vercel"/>
 </div>
 <br/>
 <div>
