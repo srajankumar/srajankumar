@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </div>
+
+<br/>
+
 <!--
 <div id="plan-to-learn">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=30 alt="mongodb"/>
@@ -37,3 +40,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=30 alt="typescript"/>
 </div> 
 -->
+
+<details>
+   <summary>
+   </summary>
+   <br/>
+   <p>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srajankumar&theme=github_dark"/>
+   </p>
+</details>
