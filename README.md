@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<br/>
+<!-- <br/> -->
 
 <!--
 <div id="plan-to-learn">
@@ -41,6 +41,7 @@
 </div> 
 -->
 
+<!--
 <details>
    <summary>
    </summary>
@@ -49,3 +50,4 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srajankumar&theme=github_dark"/>
    </p>
 </details>
+-->
