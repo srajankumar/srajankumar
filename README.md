@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<!-- <br/> -->
+<br/>
 
 <!--
 <div id="plan-to-learn">
@@ -41,13 +41,29 @@
 </div> 
 -->
 
+
 <!--
 <details>
    <summary>
+      Projects
    </summary>
    <br/>
    <p>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srajankumar&theme=github_dark"/>
    </p>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark"/>
+      </a>
+   </div>
+    -->
 </details>
--->
