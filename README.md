@@ -9,7 +9,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=30 alt="C++"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=30 alt="Java"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=30 alt="Python"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=30 alt="mongodb"/>
+   <img src="https://skillicons.dev/icons?i=express" height=30 alt="express"/>   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=30 alt="React"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=30 alt="nodejs"/>
    <img src="https://skillicons.dev/icons?i=nextjs" width=30 alt="Next.js"/>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width=30 alt="Vite.js"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=30 alt="SASS"/>
