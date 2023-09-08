@@ -1,5 +1,5 @@
 ## Hey, I'm Srajan Kumar
-> _I build cool stuffs for fun :)_
+> _I build cool stuff for fun :)_
 
 <div>
    <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML">
