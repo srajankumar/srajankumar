@@ -18,6 +18,7 @@
    <img src="https://skillicons.dev/icons?i=scss" width="30" alt="SCSS">
    <img src="https://skillicons.dev/icons?i=bootstrap" width="30" alt="Bootstrap">
    <img src="https://skillicons.dev/icons?i=tailwind" width="30" alt="Tailwind CSS">
+   <img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma">
    <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
