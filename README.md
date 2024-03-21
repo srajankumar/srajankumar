@@ -36,10 +36,10 @@
   <a href="https://www.linkedin.com/in/kumarsrajan/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-   &nbsp;&nbsp;
+<!--    &nbsp;&nbsp;
    <a href="https://leetcode.com/srajankumar/" target="_blank">
      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
 
 <br/>
