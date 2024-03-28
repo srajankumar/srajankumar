@@ -23,6 +23,7 @@
    <img src="https://skillicons.dev/icons?i=tailwind" width="30" alt="Tailwind CSS">
    <img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma">
    <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
+   <img src="https://skillicons.dev/icons?i=postman" width="30" alt="Postman">
    <img src="https://skillicons.dev/icons?i=pnpm" width="30" alt="PNPM">
    <img src="https://skillicons.dev/icons?i=npm" width="30" alt="NPM">
    <img src="https://skillicons.dev/icons?i=yarn" width="30" alt="Yarn">
