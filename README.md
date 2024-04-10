@@ -27,6 +27,7 @@
    <img src="https://skillicons.dev/icons?i=pnpm" width="30" alt="PNPM">
    <img src="https://skillicons.dev/icons?i=npm" width="30" alt="NPM">
    <img src="https://skillicons.dev/icons?i=yarn" width="30" alt="Yarn">
+   <img src="https://skillicons.dev/icons?i=bun" width="30" alt="Bun">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
 </div>
