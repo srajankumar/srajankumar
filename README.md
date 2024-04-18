@@ -30,6 +30,7 @@
    <img src="https://skillicons.dev/icons?i=bun" width="30" alt="Bun">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
    <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel">
+   <img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker">
 </div>
 
 <br/>
