@@ -1,5 +1,4 @@
-## hey, i'm srajan kumar
-> _I build cool stuff for fun :)_
+## Hi, I'm Srajan Kumar
 
 <div>
    <img src="https://skillicons.dev/icons?i=react" width="30" alt="React.js">
